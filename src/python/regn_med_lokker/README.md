@@ -1,57 +1,73 @@
----
-title: Lærerveiledning - Regn med løkker
-level: 3
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene lære å bruke løkker til å gjenta ting mange ganger, og i forlengelsen av det regne sammen summer av tallrekker.
+I denne oppgaven skal elevene lære å bruke løkker til å gjenta ting
+mange ganger, og i forlengelsen av det regne sammen summer av
+tallrekker.
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Matematikk, Programmering
+**Fag**: Matematikk, Programmering
 
-__Anbefalte trinn__: 8. trinn - VG3
+**Anbefalte trinn**: 8. trinn - VG3
 
-__Tema__: For-løkker, aritmetiske rekker,
+**Tema**: For-løkker, aritmetiske rekker,
 
-__Tidsbruk__: Dobbelttime
+**Tidsbruk**: Dobbelttime
 
+## Kompetansemål {#kompetansemål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
+-   \[ \] **Matematikk R2, VG3**: summere endelige rekker med og uten
+    digitale hjelpemidler, utlede og bruke formlene for summen av de n
+    første leddene i aritmetiske og geometriske rekker, og bruke dette
+    til å løse praktiske problemer
 
-- [ ] __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
-- [ ]  __Matematikk R2, VG3__: summere endelige rekker med og uten digitale hjelpemidler, utlede og bruke formlene for summen av de n første leddene i aritmetiske og geometriske rekker, og bruke dette til å løse praktiske problemer
+-   \[ \] **MAtematikk S2, VG3**: finne mønstre i tallfølger og bruke
+    dem til å summere endelige aritmetiske og geometriske rekker og
+    andre rekker, med og uten digitale hjelpemidler
 
-- [ ] __MAtematikk S2, VG3__: finne mønstre i tallfølger og bruke dem til å summere endelige aritmetiske og geometriske rekker og andre rekker, med og uten digitale hjelpemidler
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
+-   \[ \] Elevene kan forklare hensikten med og implementere for-løkker.
+-   \[ \] Elevene kan bruke for-løkker til å finne summen av de n første
+    leddene i en aritmetisk rekke.
 
-## Forslag til læringsmål {.challenge}
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ]  Elevene kan forklare hensikten med og implementere for-løkker.
-- [ ]  Elevene kan bruke for-løkker til å finne summen av de n første leddene i en aritmetisk rekke.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
+-   \[ \] **Forutsetninger**: Kjennskap til Python og eventuelt
+    aritmetiske rekker.
 
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python og eventuelt aritmetiske rekker.
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../regn_med_lokker/regn_med_lokker.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../regn_med_lokker/regn_med_lokker.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ] Elevene kan finne og printe andre tallmønster. For eksempel: partall, oddetall, kvadrattall, Fibonacci-tall.
-- [ ] Hvorfor går det ikke an å bruke løkker til å printe primtall?
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser ...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene kan finne og printe andre tallmønster. For eksempel:
+    partall, oddetall, kvadrattall, Fibonacci-tall.
+-   \[ \] Hvorfor går det ikke an å bruke løkker til å printe primtall?
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser ...
+

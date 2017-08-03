@@ -1,62 +1,79 @@
----
-title: Lærerveiledning - PGZ - Sprettball
-level: 4
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevne lage en ballanimasjon, ved hjelp av enkle objekter, Pygame og Pygame Zero.
+I denne oppgaven skal elevne lage en ballanimasjon, ved hjelp av enkle
+objekter, Pygame og Pygame Zero.
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Matematikk, Programmering
+**Fag**: Matematikk, Programmering
 
-__Anbefalte trinn__: 7.-10. trinn
+**Anbefalte trinn**: 7.-10. trinn
 
-__Tema__: Funksjoner, tester, klasser, objekter, bevegelse i planet
+**Tema**: Funksjoner, tester, klasser, objekter, bevegelse i planet
 
-__Tidsbruk__: Dobbelttime eller mer.
+**Tidsbruk**: Dobbelttime eller mer.
 
+## Kompetansemål {#kompetansemål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] **Programmering, valgfag**: utvikle og feilsøke programmer som
+    løser definerte problemer, inkludert realfaglige problemstillinger
+    og kontrollering eller simulering av fysiske objekter
 
-- [ ]  __Programmering, valgfag__: utvikle og feilsøke programmer som løser definerte problemer, inkludert realfaglige problemstillinger og kontrollering eller simulering av fysiske objekter
+-   \[ \] **Matematikk, 7. trinn**: beskrive plassering og flytting i
+    rutenett, på kart og i koordinatsystem, med og uten digitale
+    hjelpemidler, og bruke koordinater til å beregne avstander parallelt
+    med aksene i et koordinatsystem
 
-- [ ]  __Matematikk, 7. trinn__: beskrive plassering og flytting i rutenett, på kart og i koordinatsystem, med og uten digitale hjelpemidler, og bruke koordinater til å beregne avstander parallelt med aksene i et koordinatsystem
+-   \[ \] **Matematikk, 10. trinn**: undersøke og beskrive egenskaper
+    ved to- og tredimensjonale figurer og bruke egenskapene i
+    forbindelse med konstruksjoner og beregninger
 
-- [ ]  __Matematikk, 10. trinn__: undersøke og beskrive egenskaper ved to- og tredimensjonale figurer og bruke egenskapene i forbindelse med konstruksjoner og beregninger
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
+-   \[ \] Elevene kan bruke og forklare hensikten med bruken av klasser,
+    objekter og funksjoner.
+-   \[ \] Elevene kan bruke matematiske begreper til å forklare ballens
+    bevegelse.
+-   \[ \] Elevene kan implementere enkel brukerintegrasjon med
+    piltastene.
 
-## Forslag til læringsmål {.challenge}
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ] Elevene kan bruke og forklare hensikten med bruken av klasser, objekter og funksjoner.
-- [ ] Elevene kan bruke matematiske begreper til å forklare ballens bevegelse.
-- [ ] Elevene kan implementere enkel brukerintegrasjon med piltastene.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
+-   \[ \] **Forutsetninger**: Kjennskap til Python. Elevene burde ha
+    gjort [Enkle objekter](../enkle_objekter/enkle_objekter.html) først.
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python. Elevene burde ha gjort [Enkle objekter](../enkle_objekter/enkle_objekter.html) først.
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../sprettball/sprettball.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../sprettball/sprettball.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ]  Elevene kan lage flere baller.
-- [ ]  Elevene kan stoppe ballen.
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene kan lage flere baller.
+-   \[ \] Elevene kan stoppe ballen.
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

@@ -1,61 +1,62 @@
----
-title: Lærerveiledning - Kuprat
-level: 1
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
+I denne oppgaven introduseres elevene for første gang for
+programmeringssprket Python. Hensikten med oppgaven er å lære seg å lage
+et program som skriver ut tekst på skjermen.
 
-# Om oppgaven {.activity}
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-I denne oppgaven introduseres elevene for første gang for programmeringssprket Python. Hensikten med oppgaven er å lære seg å lage et program som skriver ut tekst på skjermen.
+**Fag**: Norsk
 
+**Anbefalte trinn**: 7.-10. trinn
 
-## Oppgaven passer til: {.check}
+**Tema**:
 
- __Fag__: Norsk
+**Tidsbruk**: Enkelttime
 
- __Anbefalte trinn__: 7.-10. trinn
+\#\# Kompetansemål {.challenge}
 
- __Tema__:
+-   \[ \] **Norsk, 4. trinn**: lage tekster som kombinerer ord, lyd og
+    bilde, med og uten digitale verktøy
 
- __Tidsbruk__: Enkelttime
+-   \[ \] **Norsk, 4. trinn**: søke etter informasjon, skape, lagre og
+    gjenfinne tekster ved hjelp av digitale verktøy
 
+\#\# Forslag til læringsmål {.challenge}
 
- ## Kompetansemål {.challenge}
+-   \[ \] Elevene har installert python og kan skrive enkle programmer
+    som skriver tekst til skjerm
 
- - [ ] __Norsk, 4. trinn__: lage tekster som kombinerer ord, lyd og bilde, med og uten digitale verktøy
+\#\# Forslag til vurderingskriterier {.challenge}
 
- - [ ] __Norsk, 4. trinn__: søke etter informasjon, skape, lagre og gjenfinne tekster ved hjelp av digitale verktøy
+-   \[ \] Eleven oppnår middels måloppnåelse ved å fullføre oppgaven.
 
+-   \[ \] Eleven oppnår høy måloppnåelse ved å lage flere dyr som kan
+    "prate" med hverandre.
 
- ## Forslag til læringsmål {.challenge}
+\#\# Forutsetninger og utstyr {.challenge}
 
- - [ ]  Elevene har installert python og kan skrive enkle programmer som skriver tekst til skjerm
+-   \[ \] **Forutsetninger**: Ingen.
 
-
- ## Forslag til vurderingskriterier {.challenge}
-
- - [ ] Eleven oppnår middels måloppnåelse ved å fullføre oppgaven.
-
- - [ ] Eleven oppnår høy måloppnåelse ved å lage flere dyr som kan "prate" med hverandre.
-
-
- ## Forutsetninger og utstyr {.challenge}
-
- - [ ]  __Forutsetninger__: Ingen.
-
- - [ ]  __Utstyr__: Datamaskin med Python.
-
+-   \[ \] **Utstyr**: Datamaskin med Python.
 
 ## Fremgangsmåte
 
- Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../kuprat/kuprat.html){target=_blank}
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../kuprat/kuprat.html){target="_blank"}
 
- - [ ] Filnavn er noe som ofte kan skape problemer. Får elevene merkelige feilmeldinger kan det være lurt å sjekke at filnavnet ikke heter "python.py", eller inneholder æøå.
+-   \[ \] Filnavn er noe som ofte kan skape problemer. Får elevene
+    merkelige feilmeldinger kan det være lurt å sjekke at filnavnet ikke
+    heter "python.py", eller inneholder æøå.
 
- - [ ] Noen elever finner kanskje ut at det går ann å bruke print uten parenteser, mens for andre gir dette en feilmelding. Dette har med hvilken versjon av Python en har installert. I nyeste utgave av Python - som det anbefales å bruke - får en feilmelding om en ikke bruker parenteser med print funksjonen.
+-   \[ \] Noen elever finner kanskje ut at det går ann å bruke print
+    uten parenteser, mens for andre gir dette en feilmelding. Dette har
+    med hvilken versjon av Python en har installert. I nyeste utgave av
+    Python - som det anbefales å bruke - får en feilmelding om en ikke
+    bruker parenteser med print funksjonen.
 
+\#\# Eksterne ressurser {.challenge}
 
- ## Eksterne ressurser {.challenge}
+-   \[ \] Foreløpig ingen eksterne ressurser ...
 
- - [ ] Foreløpig ingen eksterne ressurser ...

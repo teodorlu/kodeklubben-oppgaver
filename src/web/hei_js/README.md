@@ -1,74 +1,104 @@
----
-title: "Lærerveiledning - JS: Hei JavaScript!"
-language: nb
-Level: 2
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven blir du introdusert for programmeringsspråket JavaScript. Du skal gjøre den klassiske oppgaven _Hei verden_, med en katt.
+I denne oppgaven blir du introdusert for programmeringsspråket
+JavaScript. Du skal gjøre den klassiske oppgaven *Hei verden*, med en
+katt.
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering, Informasjonsteknologi 2
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-__Anbefalte trinn__: 8. trinn - VG3
+**Fag**: Programmering, Informasjonsteknologi 2
 
-__Tema__: JavaScript, web, html, funksjoner, variabler
+**Anbefalte trinn**: 8. trinn - VG3
 
-__Tidsbruk__: Enkelttime
+**Tema**: JavaScript, web, html, funksjoner, variabler
 
+**Tidsbruk**: Enkelttime
 
-## Kompetansemål {.challenge}
+## Kompetansemål {#kompetansemål .challenge}
 
-- [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon.
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon.
 
-- [ ] __Programmering, 10. trinn__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] **Programmering, 10. trinn**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ] __Informasjonsteknologi 2, VG3__: definere variabler og velge hensiktsmessige datatyper
+-   \[ \] **Informasjonsteknologi 2, VG3**: definere variabler og velge
+    hensiktsmessige datatyper
 
-- [ ] __Informasjonsteknologi 2, VG3__: tilordne uttrykk til variabler
+-   \[ \] **Informasjonsteknologi 2, VG3**: tilordne uttrykk til
+    variabler
 
-- [ ] __Informasjonsteknologi 2, VG3__: lage egne og bruke egne og andres funksjoner eller metoder med parametere
+-   \[ \] **Informasjonsteknologi 2, VG3**: lage egne og bruke egne og
+    andres funksjoner eller metoder med parametere
 
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Eleven kan lage enkle funksjoner i JavaScript.
+-   \[ \] Eleven kan skrive ut til konsoll i en nettleser.
+-   \[ \] Eleven kan beskrive å bruke variabler og parametre.
+-   \[ \] Eleven kan bruke HTML sammen med JavaScript.
 
-- [ ] Eleven kan lage enkle funksjoner i JavaScript.
-- [ ] Eleven kan skrive ut til konsoll i en nettleser.
-- [ ] Eleven kan beskrive å bruke variabler og parametre.
-- [ ] Eleven kan bruke HTML sammen med JavaScript.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
-- [ ] Eleven oppnår middels måloppnåelse ved å fullføre oppgaven.
-- [ ] Eleven oppnår høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forutsetninger og utstyr {.challenge}
-- [ ] __Forutsetninger__: Elevene burde ha en grunnleggende forståelse av HTML.
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] __Utstyr__: Datamaskiner med tilgang internett. Elevene kan fint jobbe to og to.
+-   \[ \] **Forutsetninger**: Elevene burde ha en grunnleggende
+    forståelse av HTML.
 
+-   \[ \] **Utstyr**: Datamaskiner med tilgang internett. Elevene kan
+    fint jobbe to og to.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til hvert av stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](hei_js.html){target=_blank}
 
-# Steg 1: Bruke JS Bin {.activity}
-- [ ] Her kan det være at elevene ikke skriver inn riktig URL/Link.
-- [ ] Elevene kan fort skrive feil eller glemme et tegn når de skal skrive til konsoll.
+Her kommer tips, erfaring og utfordringer til hvert av stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](hei_js.html){target="_blank"}
 
-# Steg 2: Lage en funksjon {.activity}
-- [ ] Det kan være vanskelig å finne tegn som __[ ]__, __{ }__ og __;__.
+# Steg 1: Bruke JS Bin {#steg-1-bruke-js-bin .activity}
 
-# Steg 3: Hei navn! {.activity}
-- [ ] Legg merke til at det er et mellomrom mellom _Hei_ og _navn_. Dette kan elevene enkelt overse.
+-   \[ \] Her kan det være at elevene ikke skriver inn riktig URL/Link.
+-   \[ \] Elevene kan fort skrive feil eller glemme et tegn når de skal
+    skrive til konsoll.
 
-# Steg 4: Katten sier hei {.activity}
-- [ ] Viktig at elevene kopiere hele skriptet slik det står. Hvis ikke kan det mangle et tegn som gjør at funksjonen _hei_ ikke klarer å kjøre.
+# Steg 2: Lage en funksjon {#steg-2-lage-en-funksjon .activity}
 
-# Steg 5: Dele prosjektet {.activity}
-- [ ] Når elevene deler prosjektet er det viktig at elevene som skal åpne prosjektet må sende riktig nettadresse. Nettadressen har gjerne tall, små og store bokstaver.
+-   \[ \] Det kan være vanskelig å finne tegn som **\[ \]**, **{ }** og
+    **;**.
 
-# Steg 5: Lagre prosjektet på datamaskinen din {.activity}
-- [ ] Elevene må huske hvor de har lagret filen, slik at de klarer å finne den igjen.
+# Steg 3: Hei navn! {#steg-3-hei-navn .activity}
 
-## Variasjoner {.challenge}
-- [ ] Elevene kan lage egne funksjoner som skriver til konsollen.
-- [ ] Elevene kan lage andre dyr enn katt.
+-   \[ \] Legg merke til at det er et mellomrom mellom *Hei* og *navn*.
+    Dette kan elevene enkelt overse.
+
+# Steg 4: Katten sier hei {#steg-4-katten-sier-hei .activity}
+
+-   \[ \] Viktig at elevene kopiere hele skriptet slik det står. Hvis
+    ikke kan det mangle et tegn som gjør at funksjonen *hei* ikke klarer
+    å kjøre.
+
+# Steg 5: Dele prosjektet {#steg-5-dele-prosjektet .activity}
+
+-   \[ \] Når elevene deler prosjektet er det viktig at elevene som skal
+    åpne prosjektet må sende riktig nettadresse. Nettadressen har gjerne
+    tall, små og store bokstaver.
+
+# Steg 5: Lagre prosjektet på datamaskinen din {#steg-5-lagre-prosjektet-på-datamaskinen-din .activity}
+
+-   \[ \] Elevene må huske hvor de har lagret filen, slik at de klarer å
+    finne den igjen.
+
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene kan lage egne funksjoner som skriver til konsollen.
+-   \[ \] Elevene kan lage andre dyr enn katt.
+

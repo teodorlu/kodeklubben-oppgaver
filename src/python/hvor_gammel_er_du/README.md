@@ -1,65 +1,68 @@
----
-title: Lærerveiledning - Hvor gammel er du?
-level: 2
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
+I denne oppgaven skal vi lære mer om if-setninger og lage et programm
+som spør hvilket år du er født og regner ut alderen din.
 
-# Om oppgaven {.activity}
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-I denne oppgaven skal vi lære mer om if-setninger og lage et programm som spør hvilket år du er født og regner ut alderen din.
+**Fag**: Programmering
 
+**Anbefalte trinn**: 7.-10. trinn
 
-## Oppgaven passer til: {.check}
+**Tema**: if-setninger
 
- __Fag__: Programmering
+**Tidsbruk**: Enkelttime
 
- __Anbefalte trinn__: 7.-10. trinn
+## Kompetansemål {#kompetansemål .challenge}
 
- __Tema__: if-setninger
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
- __Tidsbruk__: Enkelttime
+-   \[ \] **Programmering, 10. trinn**: omgjøre problemer til konkrete
+    delproblemer, vurdere hvilke delproblemer som lar seg løse digitalt,
+    og utforme løsninger for disse
 
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] Elevene forstår hvordan en if-setning fungerer og kan skrive
+    enkle tester selv.
 
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
- - [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
- - [ ] __Programmering, 10. trinn__: omgjøre problemer til konkrete delproblemer, vurdere hvilke delproblemer som lar seg løse digitalt, og utforme løsninger for disse
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
+-   \[ \] **Forutsetninger**: Kjennskap til Python.
 
-## Forslag til læringsmål {.challenge}
-
- - [ ]  Elevene forstår hvordan en if-setning fungerer og kan skrive enkle tester selv.
-
-
-## Forslag til vurderingskriterier {.challenge}
-
- - [ ] Eleven oppnår middels måloppnåelse ved å fullføre oppgaven.
-
- - [ ] Eleven oppnår høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
-
-
-## Forutsetninger og utstyr {.challenge}
-
- - [ ]  __Forutsetninger__: Kjennskap til Python.
-
- - [ ]  __Utstyr__: Datamaskin med Python installert.
+-   \[ \] **Utstyr**: Datamaskin med Python installert.
 
 ## Fremgangsmåte
 
- Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../hvor_gammel_er_du/hvor_gammel_er_du.html){target=_blank}
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../hvor_gammel_er_du/hvor_gammel_er_du.html){target="_blank"}
 
- _Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda.
+\_Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.
 
+## Variasjoner {#variasjoner .challenge}
 
-## Variasjoner {.challenge}
+-   \[ \] \_Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.
 
+## Eksterne ressurser {#eksterne-ressurser .challenge}
 
- - [ ]  _Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda.
+-   \[ \] Denne oppgaven passer ypperlig å kombinere med første episode
+    av
+    [Kodeknekkerene](https://www.nrk.no/skole/xl/kodeknekkerne-1.13033753#Episode%201:%20Hvis/ellers).
+    Den anbefalte fremmgangsmåten finnes i margen til venstre.
 
-
-## Eksterne ressurser {.challenge}
-
- - [ ] Denne oppgaven passer ypperlig å kombinere med første episode av [Kodeknekkerene](https://www.nrk.no/skole/xl/kodeknekkerne-1.13033753#Episode%201:%20Hvis/ellers). Den anbefalte fremmgangsmåten finnes i margen til venstre.

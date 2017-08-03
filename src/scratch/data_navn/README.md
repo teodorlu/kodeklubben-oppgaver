@@ -1,66 +1,91 @@
----
-title: "Lærerveiledning - Bruk data: Jente- og guttenavn"
-level: 2
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene hente data fra SSB og lage en enkel spørrefunksjon for å sjekke om navn er jente- eller guttenavn.
+I denne oppgaven skal elevene hente data fra SSB og lage en enkel
+spørrefunksjon for å sjekke om navn er jente- eller guttenavn.
 
-## Oppgaven passer til: {.check}
- __Fag__: Matematikk, Norsk
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-__Trinn__: 3.-10. trinn
+**Fag**: Matematikk, Norsk
 
-__Tema__: Statistikk, Databehandling
+**Trinn**: 3.-10. trinn
 
-__Tidsbruk__: Dobbelttime eller mer.
+**Tema**: Statistikk, Databehandling
 
+**Tidsbruk**: Dobbelttime eller mer.
 
-## Kompetansemål {.challenge}
+## Kompetansemål {#kompetansemål .challenge}
 
-- [ ] __Matematikk, 2. årstrinn__: samle, sortere, notere og illustrere data med tellestreker, tabeller og søylediagrammer, og samtale om prosessen og hva illustrasjonene forteller om datamaterialet
+-   \[ \] **Matematikk, 2. årstrinn**: samle, sortere, notere og
+    illustrere data med tellestreker, tabeller og søylediagrammer, og
+    samtale om prosessen og hva illustrasjonene forteller om
+    datamaterialet
 
-- [ ] __Matematikk, 4. årstrinn__: samle, sortere, notere og illustrere data på hensiktsmessige måter med tellestreker, tabeller og søylediagrammer, med og uten digitale verktøy, og samtale om prosess og framstilling
+-   \[ \] **Matematikk, 4. årstrinn**: samle, sortere, notere og
+    illustrere data på hensiktsmessige måter med tellestreker, tabeller
+    og søylediagrammer, med og uten digitale verktøy, og samtale om
+    prosess og framstilling
 
-- [ ] __Matematikk, 7. årstrinn__: representere data i tabeller og diagrammer som er framstilt med og uten digitale verktøy, lese og tolke framstillingene og vurdere hvor nyttige de er
+-   \[ \] **Matematikk, 7. årstrinn**: representere data i tabeller og
+    diagrammer som er framstilt med og uten digitale verktøy, lese og
+    tolke framstillingene og vurdere hvor nyttige de er
 
-- [ ] __Norsk, 4. årstrinn__: søke etter informasjon, skape, lagre og gjenfinne tekster ved hjelp av digitale verktøy
+-   \[ \] **Norsk, 4. årstrinn**: søke etter informasjon, skape, lagre
+    og gjenfinne tekster ved hjelp av digitale verktøy
 
-- [ ] __Norsk, 7. årstrinn__: velge ut og vurdere informasjon fra bibliotek og digitale informasjonskanaler
+-   \[ \] **Norsk, 7. årstrinn**: velge ut og vurdere informasjon fra
+    bibliotek og digitale informasjonskanaler
 
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan forklare hva statistikk er.
 
-- [ ] Elevene kan forklare hva statistikk er.
+-   \[ \] Elevene skal kunne beskrive noen situasjoner hvor det er
+    viktig å bruke statistikk.
 
-- [ ] Elevene skal kunne beskrive noen situasjoner hvor det er viktig å bruke statistikk.
+-   \[ \] Elevene skal kunne bruke og formatere ulike filformater.
 
-- [ ] Elevene skal kunne bruke og formatere ulike filformater.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Eleven klarer å fullføre oppgaven og finne statistikk på eget navn.
+-   \[ \] **Forutsetninger**: Elevene burde ha en grunnleggende
+    forståelse for statistikk og litt erfaring med Scratch.
 
-- [ ] Eleven viser høy måloppnåelse ved å finne og bruke annen statistikk.
-
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ] __Forutsetninger__: Elevene burde ha en grunnleggende forståelse for statistikk og litt erfaring med Scratch.
-
-- [ ] __Utstyr__: Datamaskiner med tilgang internett og excel installert (ikke nettbrett). Eventuelt kan elevene bruke Scratch i nettleseren dersom de har en bruker (eller registrerer seg) på [scratch.mit.edu/](http://scratch.mit.edu/){target=_blank}. Elevene kan fint jobbe to og to.
+-   \[ \] **Utstyr**: Datamaskiner med tilgang internett og excel
+    installert (ikke nettbrett). Eventuelt kan elevene bruke Scratch i
+    nettleseren dersom de har en bruker (eller registrerer seg) på
+    [scratch.mit.edu/](http://scratch.mit.edu/){target="_blank"}.
+    Elevene kan fint jobbe to og to.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../data_navn/data_navn.html){target=_blank}
 
-# Steg 1: Statistisk Sentralbyrås navnelister {.activity}
-- [ ] Her er det et vanlig problem at elevene glemmer å legge inn tittel på Jentenavn og Guttenavn-kolonnene. Da vil ikke programmet fungere.
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../data_navn/data_navn.html){target="_blank"}
 
-# Steg 2: Hent navnelistene inn i Scratch {.activity}
-- [ ] Elevene må huske hvor de laster ned filene slik at de finner tilbake til dem.
+# Steg 1: Statistisk Sentralbyrås navnelister {#steg-1-statistisk-sentralbyrås-navnelister .activity}
 
-## Variasjoner {.challenge}
-- [ ] Elevene skal finne andre datasett. Her kan det være en ide å ha noe klart på forhånd.
-- [ ] Bruke datasett for å finne gjennomsnitt og median.
+-   \[ \] Her er det et vanlig problem at elevene glemmer å legge inn
+    tittel på Jentenavn og Guttenavn-kolonnene. Da vil ikke programmet
+    fungere.
+
+# Steg 2: Hent navnelistene inn i Scratch {#steg-2-hent-navnelistene-inn-i-scratch .activity}
+
+-   \[ \] Elevene må huske hvor de laster ned filene slik at de finner
+    tilbake til dem.
+
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene skal finne andre datasett. Her kan det være en ide å
+    ha noe klart på forhånd.
+-   \[ \] Bruke datasett for å finne gjennomsnitt og median.
+

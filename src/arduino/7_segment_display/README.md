@@ -1,18 +1,13 @@
----
-title: Lærerveiledning - 7-Segment Display
-language: nb
----
-
 # Informasjon til veiledere
 
 ## Læringsmål
 
 Oppgaven «7-Segment Display» introduserer flere konsepter:
 
-+ En teknikk for å utforske ukjente komponenter
-+ 7-Segment Display
-+ Funksjoner og funksjonskall
-+ Switch statements
+-   En teknikk for å utforske ukjente komponenter
+-   7-Segment Display
+-   Funksjoner og funksjonskall
+-   Switch statements
 
 ## Merk
 
@@ -31,7 +26,7 @@ Kobling:
 
 Kode:
 
-```cpp
+``` {.cpp}
 void blank() {
   for (int led = 6; led <= 13; led++) {
     digitalWrite(led, LOW);

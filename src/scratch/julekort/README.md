@@ -1,55 +1,72 @@
----
-title: Lærerveiledning - Julekort
-level: 1
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene lære forskjellige måter de kan animere figurer på. Temaet er holdt rundt jul og vinter, slik at oppgaven passer bra i tiden før jul.
+I denne oppgaven skal elevene lære forskjellige måter de kan animere
+figurer på. Temaet er holdt rundt jul og vinter, slik at oppgaven passer
+bra i tiden før jul.
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Engelsk, Kunst og håndtverk, Musikk
+**Fag**: Engelsk, Kunst og håndtverk, Musikk
 
-__Trinn__: 2.-10. trinn
+**Trinn**: 2.-10. trinn
 
-__Tema__: Juletradisjoner, Julemusikk
+**Tema**: Juletradisjoner, Julemusikk
 
-__Tidsbruk__: Dobbelttime
+**Tidsbruk**: Dobbelttime
 
 ![](julekort.png)
 
-## Kompetansemål {.challenge}
+## Kompetansemål {#kompetansemål .challenge}
 
-- [ ] __Engelsk, 2. årstrinn__: ta del i og oppleve barnekultur fra engelskspråklige land gjennom å bruke ord, bilder, musikk og bevegelse
+-   \[ \] **Engelsk, 2. årstrinn**: ta del i og oppleve barnekultur fra
+    engelskspråklige land gjennom å bruke ord, bilder, musikk og
+    bevegelse
 
-- [ ] __Kunst og håndtverk, 4. årstrinn__: bruke enkle funksjoner i digitale bildebehandlingsprogram
+-   \[ \] **Kunst og håndtverk, 4. årstrinn**: bruke enkle funksjoner i
+    digitale bildebehandlingsprogram
 
-- [ ] __Musikk, 7. årstrinn__: komponere og gjøre lydopptak ved hjelp av digitale verktøy
+-   \[ \] **Musikk, 7. årstrinn**: komponere og gjøre lydopptak ved
+    hjelp av digitale verktøy
 
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til læringsmål {.challenge}
-- [ ] Elevene kan samtale om ulike juletradisjoner fra engelskspråklige land.
-- [ ] Elevene kan lage figurer og bruke de i en animasjon.
-- [ ] Elevene kan spille inn lyd og legge til i animasjonen.
+-   \[ \] Elevene kan samtale om ulike juletradisjoner fra
+    engelskspråklige land.
+-   \[ \] Elevene kan lage figurer og bruke de i en animasjon.
+-   \[ \] Elevene kan spille inn lyd og legge til i animasjonen.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ] Eleven kan lage figurer og animasjoner slik oppgaven viser.
-  - [ ] Eleven middels høy måloppnåelse ved å lage egne figurer og animasjoner.
-  - [ ] Eleven viser høy måloppnåelse ved å legge til lyd og meldingskomponenter.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forutsetninger og utstyr {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] __Forutsetninger__: Ingen.
+-   \[ \] **Forutsetninger**: Ingen.
 
-- [ ] __Utstyr__: Datamaskiner med Scratch installert. Eventuelt kan elevene bruke Scratch i nettleseren dersom de har en bruker (eller registrerer seg) på [scratch.mit.edu/](http://scratch.mit.edu/){target=_blank}. Elevene kan gjerne jobbe to og to sammen.
-
+-   \[ \] **Utstyr**: Datamaskiner med Scratch installert. Eventuelt kan
+    elevene bruke Scratch i nettleseren dersom de har en bruker (eller
+    registrerer seg) på
+    [scratch.mit.edu/](http://scratch.mit.edu/){target="_blank"}.
+    Elevene kan gjerne jobbe to og to sammen.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til hvert av stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../julekort/julekort.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til hvert av stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../julekort/julekort.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ] Elevene kan få i oppgave å lage julekort fra forskjellige land, med de ulike tradisjonene illustrert.
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
+
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene kan få i oppgave å lage julekort fra forskjellige
+    land, med de ulike tradisjonene illustrert.
+

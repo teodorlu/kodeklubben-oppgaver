@@ -1,56 +1,70 @@
----
-title: Lærerveiledning - Tre på rad mot datamaskinen
-level: 3
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene lage et tre på rad spill og spille mot datamaskinen. Dette spillet er en videreutvikling av [Tre på rad](../tre_pa_rad/tre_pa_rad.html).
+I denne oppgaven skal elevene lage et tre på rad spill og spille mot
+datamaskinen. Dette spillet er en videreutvikling av [Tre på
+rad](../tre_pa_rad/tre_pa_rad.html).
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering
+**Fag**: Programmering
 
-__Anbefalte trinn__: 8.-10. trinn
+**Anbefalte trinn**: 8.-10. trinn
 
-__Tema__: Spill, løkker, tester, brukerinteraksjon, variabler, funksjoner
+**Tema**: Spill, løkker, tester, brukerinteraksjon, variabler,
+funksjoner
 
-__Tidsbruk__: Dobbelttime eller mer
+**Tidsbruk**: Dobbelttime eller mer
 
+## Kompetansemål {#kompetansemål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, valgfag**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ]  __Programmering, valgfag__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
+-   \[ \] Elevene kan beskrive og bruke løkker, tester, variabler, og
+    funksjoner til å implementere et spill.
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan implementere brukerinteraksjon ved bruk av
+    musepekeren.
 
-- [ ]  Elevene kan beskrive og bruke løkker, tester, variabler, og funksjoner til å implementere et spill.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ]  Elevene kan implementere brukerinteraksjon ved bruk av musepekeren.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
+-   \[ \] **Forutsetninger**: Kjennskap til Python. Elevene burde ha
+    gjort [Tre på rad](../tre_pa_rad/tre_pa_rad.html) først.
 
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python. Elevene burde ha gjort [Tre på rad](../tre_pa_rad/tre_pa_rad.html) først.
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../tre_pa_rad_mot_datamaskinen/tre_pa_rad_mot_datamaskinen.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../tre_pa_rad_mot_datamaskinen/tre_pa_rad_mot_datamaskinen.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ]  _Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda._
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] *Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.*
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

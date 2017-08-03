@@ -1,62 +1,81 @@
----
-title: Lærerveiledning - PGZ Hangman
-level: 4
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven  skal elevene bruk av enkle strengfunksjoner, lister, løkker og ordbøker til å sette sammen et Hangman-spill.
+I denne oppgaven skal elevene bruk av enkle strengfunksjoner, lister,
+løkker og ordbøker til å sette sammen et Hangman-spill.
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-__Anbefalte trinn__: 8.-10. trinn
+**Fag**: Programmering
 
-__Tema__: Lister, løkker, ordbøker
+**Anbefalte trinn**: 8.-10. trinn
 
-__Tidsbruk__: Dobbelttime eller mer
+**Tema**: Lister, løkker, ordbøker
 
+**Tidsbruk**: Dobbelttime eller mer
 
-## Kompetansemål {.challenge}
+## Kompetansemål {#kompetansemål .challenge}
 
-- [ ]  __Programmering, valgfag__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] **Programmering, valgfag**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: utvikle og feilsøke programmer som løser definerte problemer, inkludert realfaglige problemstillinger og kontrollering eller simulering av fysiske objekter
+-   \[ \] **Programmering, valgfag**: utvikle og feilsøke programmer som
+    løser definerte problemer, inkludert realfaglige problemstillinger
+    og kontrollering eller simulering av fysiske objekter
 
-- [ ]  __Programmering, valgfag__: dokumentere og forklare programkode gjennom å skrive hensiktsmessige kommentarer og ved å presentere egen og andres kode
+-   \[ \] **Programmering, valgfag**: dokumentere og forklare
+    programkode gjennom å skrive hensiktsmessige kommentarer og ved å
+    presentere egen og andres kode
 
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan forklare og bruke løkker, lister og ordbøker.
+-   \[ \] Elevene kan forklare og bruke andres kode i egne prosjekter.
+-   \[ \] Elevene kan utvikle og feilsøke programmer.
 
-- [ ]  Elevene kan forklare og bruke løkker, lister og ordbøker.
-- [ ]  Elevene kan forklare og bruke andres kode i egne prosjekter.
-- [ ]  Elevene kan utvikle og feilsøke programmer.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
+-   \[ \] **Forutsetninger**: Kjennskap til Python. I tillegg burde
+    elevene ha gjort følgende oppgaver (eller være kjent med de ulike
+    temaene og elementene):
+-   \[ \] \[Hangman\](../hangman/hangman.html){target=\_blank}
+-   \[ \] \[PGZ løpende
+    strekmann\](../lopende\_strekmann/lopende\_strekmann.html){target=\_blank}
+-   \[ \] \[Ordbøker\](../ordboeker/ordboeker.html){target=\_blank}
+-   \[ \] \[Tekst ABC\](../tekst\_abc/tekst\_abc.html){target=\_blank}
 
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python. I tillegg burde elevene ha gjort følgende oppgaver (eller være kjent med de ulike temaene og elementene): 
-  - [ ] [Hangman](../hangman/hangman.html){target=_blank}
-  - [ ] [PGZ løpende strekmann](../lopende_strekmann/lopende_strekmann.html){target=_blank}
-  - [ ] [Ordbøker](../ordboeker/ordboeker.html){target=_blank}
-  - [ ] [Tekst ABC](../tekst_abc/tekst_abc.html){target=_blank}
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert. Elevene kan gjerne jobbe to og to sammen.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert. Elevene kan
+    gjerne jobbe to og to sammen.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../hangman2/hangman2.html){target=_blank}
 
-## Variasjoner {.challenge}
-- [ ]  _Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../hangman2/hangman2.html){target="_blank"}
 
-## Eksterne ressurser {.challenge}
-- [ ] Vi henviser til mange funksjoner i denne oppgaven, og dersom du ønsker å vite mer om hvordan de fungerer så anbefaler vi at du sjekker ut [Python sin dokumentasjon på nett](https://docs.python.org/3.6/)
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] *Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.*
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Vi henviser til mange funksjoner i denne oppgaven, og dersom
+    du ønsker å vite mer om hvordan de fungerer så anbefaler vi at du
+    sjekker ut [Python sin dokumentasjon på
+    nett](https://docs.python.org/3.6/)
+

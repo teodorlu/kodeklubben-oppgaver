@@ -1,51 +1,79 @@
----
-title: Lærerveiledning - Snøballkrig
-level: 4
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I dette spillet vil vi kontrollere snøballkaster som prøver å jage
-bort slemme gutter ved å kaste snøball etter dem.
+I dette spillet vil vi kontrollere snøballkaster som prøver å jage bort
+slemme gutter ved å kaste snøball etter dem.
 
 ![](snoballkrig.png)
 
-## Oppgaven passer til: {.check}
- __Fag__: Kunst og håndtverk, matematikk, programmering.
-__Anbefalte trinn__: 5.-10. trinn.
-__Tema__: Digitalt bildebehandlingsprogram, koordinatsystem, variabler.
-__Tidsbruk__: Dobbelttime eller mer.
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Kompetansemål {.challenge}
-- [ ] __Kunst og håndtverk, 4. trinn__: bruke enkle funksjoner i digitale bildebehandlingsprogram
-- [ ] __Matematikk, 4. trinn__: lese av, plassere og beskrive posisjoner i rutenett, på kart og i koordinatsystemer, både med og uten digitale verktøy
-- [ ] __Matematikk, 7. trinn__: beskrive plassering og flytting i rutenett, på kart og i koordinatsystem, med og uten digitale hjelpemidler, og bruke koordinater til å beregne avstander parallelt med aksene i et koordinatsystem
-- [ ] __Programmering, 10. trinn__: dokumentere og forklare programkode gjennom å skrive hensiktsmessige kommentarer og ved å presentere egen og andres kode
-- [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+**Fag**: Kunst og håndtverk, matematikk, programmering. **Anbefalte
+trinn**: 5.-10. trinn. **Tema**: Digitalt bildebehandlingsprogram,
+koordinatsystem, variabler. **Tidsbruk**: Dobbelttime eller mer.
 
-## Forslag til læringsmål {.challenge}
-- [ ] Elevene kan lage bakgrunn og elementer i digitalt bildebehandlingsprogram, og bruke dem i et spill.
-- [ ] Elevene kan plassere elementer på bestemte posisjoner i et koordinatsystem.
-- [ ] Elevene kan få elementer til å bevege seg i en bestemt retning i et koordinatsystem.
-- [ ] Elevene kan lage hensiktsmessige kommentarer for å dokumentere koden sin.
-- [ ] Elevene kan bruke variabler til å telle poeng.
-- [ ] Elevene kan bruke kode til å lage et spill med brukerinteraksjon.
+## Kompetansemål {#kompetansemål .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-- [ ] Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
+-   \[ \] **Kunst og håndtverk, 4. trinn**: bruke enkle funksjoner i
+    digitale bildebehandlingsprogram
+-   \[ \] **Matematikk, 4. trinn**: lese av, plassere og beskrive
+    posisjoner i rutenett, på kart og i koordinatsystemer, både med og
+    uten digitale verktøy
+-   \[ \] **Matematikk, 7. trinn**: beskrive plassering og flytting i
+    rutenett, på kart og i koordinatsystem, med og uten digitale
+    hjelpemidler, og bruke koordinater til å beregne avstander parallelt
+    med aksene i et koordinatsystem
+-   \[ \] **Programmering, 10. trinn**: dokumentere og forklare
+    programkode gjennom å skrive hensiktsmessige kommentarer og ved å
+    presentere egen og andres kode
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-## Forutsetninger og utstyr {.challenge}
-- [ ] __Forutsetninger__: Elevene må ha god kunnskap i Scratch. De bør ha gjort flere prosjekter på erfaren-nivået før de begynner med denne oppgaven.
-- [ ] __Utstyr__: Datamaskiner med Scratch installert. Eventuelt kan elevene bruke Scratch i nettleseren dersom de har en bruker (eller registrerer seg) på [scratch.mit.edu/](http://scratch.mit.edu/){target=_blank}.
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
+
+-   \[ \] Elevene kan lage bakgrunn og elementer i digitalt
+    bildebehandlingsprogram, og bruke dem i et spill.
+-   \[ \] Elevene kan plassere elementer på bestemte posisjoner i et
+    koordinatsystem.
+-   \[ \] Elevene kan få elementer til å bevege seg i en bestemt retning
+    i et koordinatsystem.
+-   \[ \] Elevene kan lage hensiktsmessige kommentarer for å dokumentere
+    koden sin.
+-   \[ \] Elevene kan bruke variabler til å telle poeng.
+-   \[ \] Elevene kan bruke kode til å lage et spill med
+    brukerinteraksjon.
+
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
+
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
+
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
+
+-   \[ \] **Forutsetninger**: Elevene må ha god kunnskap i Scratch. De
+    bør ha gjort flere prosjekter på erfaren-nivået før de begynner med
+    denne oppgaven.
+-   \[ \] **Utstyr**: Datamaskiner med Scratch installert. Eventuelt kan
+    elevene bruke Scratch i nettleseren dersom de har en bruker (eller
+    registrerer seg) på
+    [scratch.mit.edu/](http://scratch.mit.edu/){target="_blank"}.
 
 ## Fremgangsmåte
-[Klikk her for å se oppgaveteksten.](../snoballkrig/snoballkrig.html){target=_blank}
-_Det kan være en utfordring for mange elever å lage koden. Under følger et eksempel på hvordan koden kan se ut under de forskjellige elementene._
 
-# Scene {.activity}
+[Klikk her for å se
+oppgaveteksten.](../snoballkrig/snoballkrig.html){target="_blank"} *Det
+kan være en utfordring for mange elever å lage koden. Under følger et
+eksempel på hvordan koden kan se ut under de forskjellige elementene.*
 
-```blocks
+# Scene {#scene .activity}
+
+``` {.blocks}
   når grønt flagg klikkes
   bytt bakgrunn til [Meny v]
 
@@ -64,9 +92,9 @@ _Det kan være en utfordring for mange elever å lage koden. Under følger et ek
   bytt bakgrunn til [Slutt v]
 ```
 
-# Helten {.activity}
+# Helten {#helten .activity}
 
-```blocks
+``` {.blocks}
   når grønt flagg klikkes
   skjul
   sett størrelse til (75) %
@@ -98,9 +126,9 @@ _Det kan være en utfordring for mange elever å lage koden. Under følger et ek
   stopp [andre skript i figuren v]
 ```
 
-# Snøball {.activity}
+# Snøball {#snøball .activity}
 
-```blocks
+``` {.blocks}
   når grønt flagg klikkes
   skjul
   sett størrelse til (40) %
@@ -126,9 +154,9 @@ _Det kan være en utfordring for mange elever å lage koden. Under følger et ek
   slett denne klonen
 ```
 
-# Skumling {.activity}
+# Skumling {#skumling .activity}
 
-```blocks
+``` {.blocks}
   når grønt flagg klikkes
   skjul
   gå til x: (0) y: (-70)
@@ -179,8 +207,12 @@ _Det kan være en utfordring for mange elever å lage koden. Under følger et ek
   slett denne klonen
 ```
 
-## Variasjoner {.challenge}
-- [ ] _Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda._
+## Variasjoner {#variasjoner .challenge}
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+-   \[ \] *Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.*
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

@@ -1,82 +1,99 @@
----
-title: Lærerveiledning - Verden del 1
-level: 1
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-
-Verden er et program som viser navnet på en verdensdel når musepekeren holdes over den. Oppgaven viser framgangsmåten for Europa, men kan lett utvides til resten av verdensdelene, og eventuelt andre områder. Se også [Verden del 2](../verden_del2/verden_del2.html){target=_blank}.
+Verden er et program som viser navnet på en verdensdel når musepekeren
+holdes over den. Oppgaven viser framgangsmåten for Europa, men kan lett
+utvides til resten av verdensdelene, og eventuelt andre områder. Se også
+[Verden del 2](../verden_del2/verden_del2.html){target="_blank"}.
 
 ![](world-map.png)
 
-## Oppgaven passer til: {.check}
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
- __Fag__: Matematikk, programmering, samfunnsfag.
+**Fag**: Matematikk, programmering, samfunnsfag.
 
-__Anbefalte trinn__: 8. trinn til VG3.
+**Anbefalte trinn**: 8. trinn til VG3.
 
-__Tema__: Geografi, lese kart, variabler, brukerinteraksjon.
+**Tema**: Geografi, lese kart, variabler, brukerinteraksjon.
 
-__Tidsbruk__: Hver del passer til en dobbelttime, men kan også fungere i et undervisningsopplegg over lengre tid.
+**Tidsbruk**: Hver del passer til en dobbelttime, men kan også fungere i
+et undervisningsopplegg over lengre tid.
 
+## Kompetansemål {#kompetansemål .challenge}
 
+-   \[ \] **Matematikk, 4. trinn**: lese av, plassere og beskrive
+    posisjoner i rutenett, på kart og i koordinatsystemer, både med og
+    uten digitale verktøy
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, 10. trinn**: dokumentere og forklare
+    programkode gjennom å skrive hensiktsmessige kommentarer og ved å
+    presentere egen og andres kode
 
-- [ ] __Matematikk, 4. trinn__: lese av, plassere og beskrive posisjoner i rutenett, på kart og i koordinatsystemer, både med og uten digitale verktøy
+-   \[ \] **Programmering, 10. trinn**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ] __Programmering, 10. trinn__: dokumentere og forklare programkode gjennom å skrive hensiktsmessige kommentarer og ved å presentere egen og andres kode
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ] __Programmering, 10. trinn__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] **Samfunnsfag, 4. trinn**: setje namn på og plassere landa i
+    Norden, verdshava og verdsdelane og finne geografiske nemningar på
+    kart
 
-- [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] **Samfunnsfag, 10. trinn**: lese, tolke og bruke papirbaserte
+    og digitale kart, målestokk og kartteikn
 
-- [ ] __Samfunnsfag, 4. trinn__: setje namn på og plassere landa i Norden, verdshava og verdsdelane og finne geografiske nemningar på kart
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-- [ ] __Samfunnsfag, 10. trinn__: lese, tolke og bruke papirbaserte og digitale kart, målestokk og kartteikn
+-   \[ \] Elevene kan plassere ulike elementer på bestemte plasser i et
+    koordinatsystem.
 
+-   \[ \] Elevene kan skrive ryddig kode med hensiktsmessige
+    kommentarer, slik at de selv kan videreutvikle koden senere.
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan registrere musepekerens posisjon på skjermen, og
+    bruke dette i koden sin.
 
-- [ ] Elevene kan plassere ulike elementer på bestemte plasser i et koordinatsystem.
+-   \[ \] Elevene kan lese et digitalt verdenskart.
 
-- [ ] Elevene kan skrive ryddig kode med hensiktsmessige kommentarer, slik at de selv kan videreutvikle koden senere.
+-   \[ \] Elevene kan plassere verdensdelene på kartet.
 
-- [ ] Elevene kan registrere musepekerens posisjon på skjermen, og bruke dette i koden sin.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ] Elevene kan lese et digitalt verdenskart.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-- [ ] Elevene kan plassere verdensdelene på kartet.
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
+-   \[ \] **Forutsetninger**: Elevene bør kjenne til Processing.
 
-
-## Forslag til vurderingskriterier {.challenge}
-
-Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og her må en selv vurdere hva som er den beste måten ut ifra hvilket fag man jobber i, hvilken aldergruppe og hvilet nivå elevene er på, hva man ønsker å teste og hvor mye tid man har til rådighet til å jobbe med prosjektet. I vårt lærerdokument har vi blant annet beskrevet ulike måter dette kan gjøres på, i tillegg til en del andre nyttige tips til hvordan man underviser i programmering.
-
-
-## Forutsetninger og utstyr {.challenge}
-
-- [ ]  __Forutsetninger__: Elevene bør kjenne til Processing.
-
-- [ ]  __Utstyr__: Datamaskiner med [Processing](https://www.processing.org/download/){target=_blank} installert. Elevene kan gjerne jobbe to og to sammen.
+-   \[ \] **Utstyr**: Datamaskiner med
+    [Processing](https://www.processing.org/download/){target="_blank"}
+    installert. Elevene kan gjerne jobbe to og to sammen.
 
 ## Fremgangsmåte
 
-[Klikk her for å se oppgaveteksten.](../verden_del1/verden_del1.html){target=_blank}
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet disse oppgavene enda._
+[Klikk her for å se
+oppgaveteksten.](../verden_del1/verden_del1.html){target="_blank"} *Vi
+har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet
+disse oppgavene enda.*
 
+## Variasjoner {#variasjoner .challenge}
 
-## Variasjoner {.challenge}
+-   \[ \] Elevene kan markere resten av verdensdelene på tilsvarende
+    måte.
 
-- [ ] Elevene kan markere resten av verdensdelene på tilsvarende måte.
+-   \[ \] Elevene kan lage bedre tilpassinger av grensene ved å bruke
+    irregulære mangekanter.
 
-- [ ] Elevene kan lage bedre tilpassinger av grensene ved å bruke irregulære mangekanter.
+-   \[ \] Elevene kan lage tilsvarende program på egne kart (en enkelt
+    verdensdel, Norge, solsystemet...)
 
-- [ ] Elevene kan lage tilsvarende program på egne kart (en enkelt verdensdel, Norge, solsystemet...)
-
-
-## Eksterne ressurser {.challenge}
+## Eksterne ressurser {#eksterne-ressurser .challenge}
 
 Ingen eksterne ressurser...

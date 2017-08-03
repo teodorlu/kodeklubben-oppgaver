@@ -1,52 +1,75 @@
----
-title: Lærerveiledning - Skilpaddetekst
-level: 4
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene lære å skrive kode som skriver stor tekst ved hjelp av turtle. 
+I denne oppgaven skal elevene lære å skrive kode som skriver stor tekst
+ved hjelp av turtle.
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-__Anbefalte trinn__: 8.-10. trinn
+**Fag**: Programmering
 
-__Tema__: Tekststrenger, løkker, funksjoner
+**Anbefalte trinn**: 8.-10. trinn
 
-__Tidsbruk__: Dobbelttime
+**Tema**: Tekststrenger, løkker, funksjoner
 
+**Tidsbruk**: Dobbelttime
 
-## Kompetansemål {.challenge}
+## Kompetansemål {#kompetansemål .challenge}
 
-- [ ]  __Programmering, valgfag__: omgjøre problemer til konkrete delproblemer, vurdere hvilke delproblemer som lar seg løse digitalt, og utforme løsninger for disse
+-   \[ \] **Programmering, valgfag**: omgjøre problemer til konkrete
+    delproblemer, vurdere hvilke delproblemer som lar seg løse digitalt,
+    og utforme løsninger for disse
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: utvikle og feilsøke programmer som løser definerte problemer, inkludert realfaglige problemstillinger og kontrollering eller simulering av fysiske objekter
+-   \[ \] **Programmering, valgfag**: utvikle og feilsøke programmer som
+    løser definerte problemer, inkludert realfaglige problemstillinger
+    og kontrollering eller simulering av fysiske objekter
 
-- [ ]  __Programmering, valgfag__: dokumentere og forklare programkode gjennom å skrive hensiktsmessige kommentarer og ved å presentere egen og andres kode
+-   \[ \] **Programmering, valgfag**: dokumentere og forklare
+    programkode gjennom å skrive hensiktsmessige kommentarer og ved å
+    presentere egen og andres kode
 
-- [ ]  __Programmering, valgfag__: overføre løsninger til nye problemer ved å generalisere og tilpasse eksisterende programkode og algoritmer.
+-   \[ \] **Programmering, valgfag**: overføre løsninger til nye
+    problemer ved å generalisere og tilpasse eksisterende programkode og
+    algoritmer.
 
-## Forslag til læringsmål {.challenge}
-- [ ]  Elevene kan bruke funksjoner og løkker til å behandle og printe tekststrenger.
-- [ ]  Elevene kan forklare og bruke andres kode i eget prosjekter.
-- [ ]  Elevene kan utvikle og feilsøke programmer.
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
+-   \[ \] Elevene kan bruke funksjoner og løkker til å behandle og
+    printe tekststrenger.
+-   \[ \] Elevene kan forklare og bruke andres kode i eget prosjekter.
+-   \[ \] Elevene kan utvikle og feilsøke programmer.
 
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python.
-- [ ]  __Utstyr__:  Datamaskiner med Python installert.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
+
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
+
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
+
+-   \[ \] **Forutsetninger**: Kjennskap til Python.
+-   \[ \] **Utstyr**: Datamaskiner med Python installert.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../skilpaddetekst/skilpaddetekst.html){target=_blank}
 
-## Variasjoner {.challenge}
-- [ ]  _Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../skilpaddetekst/skilpaddetekst.html){target="_blank"}
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] *Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.*
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

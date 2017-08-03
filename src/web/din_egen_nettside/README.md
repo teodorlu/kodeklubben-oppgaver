@@ -1,70 +1,93 @@
----
-title: "Lærerveiledning - Lag din egen nettside"
-level: 4
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene lage sin egen nettside ved hjelp av alt de har lært hittil.
+I denne oppgaven skal elevene lage sin egen nettside ved hjelp av alt de
+har lært hittil.
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering, Teknologi i praksis, Informasjonsteknologi 1 og 2
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-__Anbefalte trinn__: 8. trinn - VG3
+**Fag**: Programmering, Teknologi i praksis, Informasjonsteknologi 1 og
+2
 
-__Tema__: Web, HTML, CSS, JavaScript
+**Anbefalte trinn**: 8. trinn - VG3
 
-__Tidsbruk__: Dobbeltime eller mer.
+**Tema**: Web, HTML, CSS, JavaScript
 
+**Tidsbruk**: Dobbeltime eller mer.
 
-## Kompetansemål {.challenge}
+## Kompetansemål {#kompetansemål .challenge}
 
-- [ ]  __Programmering, 10. trinn__: bruke flere programmeringsspråk der minst ett er tekstbasert.
+-   \[ \] **Programmering, 10. trinn**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert.
 
-- [ ]  __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon.
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon.
 
-- [ ] __Teknologi i praksis, 10. trinn__: undersøkje teknologiske produkt og dei vala som er gjorde med omsyn til bruk, tekniske løysingar, funksjonalitet og design.
+-   \[ \] **Teknologi i praksis, 10. trinn**: undersøkje teknologiske
+    produkt og dei vala som er gjorde med omsyn til bruk, tekniske
+    løysingar, funksjonalitet og design.
 
-- [ ] __Informasjonsteknologi 1, VG2__: redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
+-   \[ \] **Informasjonsteknologi 1, VG2**: redigere nettsteder ved bruk
+    av standardiserte oppmerkingsspråk
 
-- [ ] __Informasjonsteknologi 1, VG2__: organisere og begrunne filstrukturen for nettsteder
+-   \[ \] **Informasjonsteknologi 1, VG2**: organisere og begrunne
+    filstrukturen for nettsteder
 
-- [ ] __Informasjonsteknologi 1, VG2__: planlegge nettsteder som inneholder multimediekomponenter
+-   \[ \] **Informasjonsteknologi 1, VG2**: planlegge nettsteder som
+    inneholder multimediekomponenter
 
-- [ ] __Informasjonsteknologi 1, VG2__: utvikle nettsteder i henhold til planer og vurdere om krav til brukergrensesnitt er oppfylt
-sette opp krav til og vurdere nettsteder
+-   \[ \] **Informasjonsteknologi 1, VG2**: utvikle nettsteder i henhold
+    til planer og vurdere om krav til brukergrensesnitt er oppfylt sette
+    opp krav til og vurdere nettsteder
 
-- [ ] __Informasjonsteknologi 2, VG3__: planlegge og utvikle multimedieapplikasjoner ved å kombinere egne og andres multimedieelementer av typene tekst, bilde, lyd, video og animasjoner
+-   \[ \] **Informasjonsteknologi 2, VG3**: planlegge og utvikle
+    multimedieapplikasjoner ved å kombinere egne og andres
+    multimedieelementer av typene tekst, bilde, lyd, video og
+    animasjoner
 
-- [ ] __Informasjonsteknologi 2, VG3__: bruke programmeringsspråk i multimedieapplikasjoner
+-   \[ \] **Informasjonsteknologi 2, VG3**: bruke programmeringsspråk i
+    multimedieapplikasjoner
 
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Eleven kan bruke HTML til å bygge en god struktur for en
+    nettside.
+-   \[ \] Eleven kan bruke CSS til å utforme nettsiden.
+-   \[ \] Eleven kan bruke JavaScript til å gjøre nettsiden dynamisk.
 
-- [ ] Eleven kan bruke HTML til å bygge en god struktur for en nettside.
-- [ ] Eleven kan bruke CSS til å utforme nettsiden.
-- [ ] Eleven kan bruke JavaScript til å gjøre nettsiden dynamisk.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Eleven oppnår middels måloppnåelse ved å fullføre oppgaven.
-- [ ] Eleven oppnår høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
+-   \[ \] **Forutsetninger**: God kjennskap til HTML, CSS og JavaScript
 
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: God kjennskap til HTML, CSS og JavaScript
-
-- [ ]  __Utstyr__: Datamaskin med internett og tekstbehandlingsverktøy
-
+-   \[ \] **Utstyr**: Datamaskin med internett og
+    tekstbehandlingsverktøy
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../din_egen_nettside/din_egen_nettside.html){target=_blank}
 
-Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda.
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../din_egen_nettside/din_egen_nettside.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ] Denne oppgaven kan knyttes opp til skriftlige fag som norsk, engelsk eller fremmedspråk ved å for eksempel programmere en blogg.
+Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser ...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Denne oppgaven kan knyttes opp til skriftlige fag som norsk,
+    engelsk eller fremmedspråk ved å for eksempel programmere en blogg.
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser ...
+

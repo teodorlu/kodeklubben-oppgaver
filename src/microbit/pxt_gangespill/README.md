@@ -1,82 +1,107 @@
----
-title: "Lærerveiledning - PXT: Gangespill"
-level: 1
-language: nb
-author: Tjerand Silde
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
+I denne oppgaven skal vi lage et enkelt gangspill med micro:bit. Når
+micro:biten ristes så presenteres et gangsstykke, og eleven skal svare
+hva produktet blir ved hjelp av tiere (knapp A) og enere (knapp B).
 
-I denne oppgaven skal vi lage et enkelt gangspill med micro:bit. Når micro:biten ristes så presenteres et gangsstykke, og eleven skal svare hva produktet blir ved hjelp av tiere (knapp A) og enere (knapp B).
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
+**Fag**: Matematikk, Programmering
 
-## Oppgaven passer til: {.check}
+**Anbefalte trinn**: 4.-10. trinn
 
-__Fag__: Matematikk, Programmering
+**Tema**: Multiplikasjon, tallsystemer, variabler, if-setninger,
+brukerinteraksjon
 
-__Anbefalte trinn__: 4.-10. trinn
+**Tidsbruk**: Dobbelttime
 
-__Tema__: Multiplikasjon, tallsystemer, variabler, if-setninger, brukerinteraksjon
+## Kompetansemål {#kompetansemål .challenge}
 
-__Tidsbruk__: Dobbelttime
+-   \[ \] **Matematikk, 2. trinn** : telle til 100, dele opp og bygge
+    mengder opp til 10, sette sammen og dele opp tiergrupper opp til 100
+    og dele tosifrete tall i tiere og enere
 
+-   \[ \] **Matematikk, 4. trinn** : beskrive og bruke
+    plassverdisystemet for de hele tallene, bruke positive og negative
+    hele tall, enkle brøker og desimaltall i praktiske sammenhenger og
+    uttrykke tallstørrelser på varierte måter
 
-## Kompetansemål {.challenge}
+-   \[ \] **Matematikk, 4. trinn** : utvikle og bruke varierte metoder
+    for multiplikasjon og divisjon, bruke dem i praktiske situasjoner og
+    bruke den lille multiplikasjonstabellen i hoderegning og i
+    oppgaveløsning
 
-- [ ]  __Matematikk, 2. trinn__ : telle til 100, dele opp og bygge mengder opp til 10, sette sammen og dele opp tiergrupper opp til 100 og dele tosifrete tall i tiere og enere
+-   \[ \] **Matematikk, 10. trinn** : bruke faktorer, potenser,
+    kvadratrøtter og primtall i beregninger
 
-- [ ]  __Matematikk, 4. trinn__ : beskrive og bruke plassverdisystemet for de hele tallene, bruke positive og negative hele tall, enkle brøker og desimaltall i praktiske sammenhenger og uttrykke tallstørrelser på varierte måter
+-   \[ \] **Matematikk, 10. trinn** : utvikle, bruke og gjøre rede for
+    ulike metoder i hoderegning, overslagsregning og skriftlig regning
+    med de fire regneartene
 
-- [ ]  __Matematikk, 4. trinn__ : utvikle og bruke varierte metoder for multiplikasjon og divisjon, bruke dem i praktiske situasjoner og bruke den lille multiplikasjonstabellen i hoderegning og i oppgaveløsning
+-   \[ \] **Fordypning i matematikk, 10. trinn** : utvikle, gjøre greie
+    for og bruke forskjellige metoder i hoderegning og overslagsregning
+    i ulike tallsystemer
 
-- [ ]  __Matematikk, 10. trinn__ : bruke faktorer, potenser, kvadratrøtter og primtall i beregninger
+-   \[ \] **Programmering, 10. trinn** : bruke grunnleggende prinsipper
+    i programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Matematikk, 10. trinn__ : utvikle, bruke og gjøre rede for ulike metoder i hoderegning, overslagsregning og skriftlig regning med de fire regneartene
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-- [ ]  __Fordypning i matematikk, 10. trinn__ : utvikle, gjøre greie for og bruke forskjellige metoder i hoderegning og overslagsregning i ulike tallsystemer
+-   \[ \] Elevene kan multiplisere to faktorer ved hjelp av hoderegning
 
-- [ ] __Programmering, 10. trinn__ : bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] Elevene kan representere tall som sum av tiere og enere
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan bruke variabler til å lagre og manipulere
+    informasjon
 
-- [ ] Elevene kan multiplisere to faktorer ved hjelp av hoderegning
+-   \[ \] Elevene kan bruke tester til å sjekke om svaret er korrekt
 
-- [ ] Elevene kan representere tall som sum av tiere og enere
+-   \[ \] Elevene kan bruke knapper og skjerm til å interaktere med
+    brukeren
 
-- [ ] Elevene kan bruke variabler til å lagre og manipulere informasjon
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ] Elevene kan bruke tester til å sjekke om svaret er korrekt
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-- [ ] Elevene kan bruke knapper og skjerm til å interaktere med brukeren
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
+-   \[ \] **Forutsetninger**: Det er en fordel om elevene har erfaring
+    med blokkbasert programmering i Code Studio eller Scratch, med det
+    går fint å starte rett på.
 
-## Forslag til vurderingskriterier {.challenge}
-
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-
-- [ ] Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
-
-
-## Forutsetninger og utstyr {.challenge}
-
-- [ ]  __Forutsetninger__: Det er en fordel om elevene har erfaring med blokkbasert programmering i Code Studio eller Scratch, med det går fint å starte rett på.
-
-- [ ]  __Utstyr__:  Datamaskin med tilgang til Internett, micro:bit og micro-usb-kabel.
-
+-   \[ \] **Utstyr**: Datamaskin med tilgang til Internett, micro:bit og
+    micro-usb-kabel.
 
 ## Fremgangsmåte
 
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../pxt_gangespill/gangespill.html){target=_blank}
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../pxt_gangespill/gangespill.html){target="_blank"}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
+## Variasjoner {#variasjoner .challenge}
 
-## Variasjoner {.challenge}
+-   \[ \] Elevene kan lage et spill som tar for seg andre regnearter enn
+    multiplikasjon, som for eksempel addisjon, subtraksjon, divisjon
+    eller potenser
 
-- [ ]  Elevene kan lage et spill som tar for seg andre regnearter enn multiplikasjon, som for eksempel addisjon, subtraksjon, divisjon eller potenser
+-   \[ \] Elevene kan lage et spill som tar for seg andre tallsystemer
+    enn titallsystemet, for eksempel totallsystemet (binære tall) eller
+    sekstentallsystemet (heksadesimale tall)
 
-- [ ] Elevene kan lage et spill som tar for seg andre tallsystemer enn titallsystemet, for eksempel totallsystemet (binære tall) eller sekstentallsystemet (heksadesimale tall)
+## Eksterne ressurser {#eksterne-ressurser .challenge}
 
-## Eksterne ressurser {.challenge}
+-   \[ \] Artikkel på
+    [matematikk.net](http://matematikk.net/side/Tallsystemer){target="_blank"}
+    om tallsystemer
 
-- [ ] Artikkel på [matematikk.net](http://matematikk.net/side/Tallsystemer){target=_blank} om tallsystemer

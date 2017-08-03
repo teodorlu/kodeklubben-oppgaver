@@ -1,57 +1,68 @@
----
-title: Lærerveiledning - Repetisjon
-level: 3
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-Denne oppgaven fungerer som en repetisjon eller oppsummering av grunnleggende programmeringselementer og Python syntaks.
+Denne oppgaven fungerer som en repetisjon eller oppsummering av
+grunnleggende programmeringselementer og Python syntaks.
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering
+**Fag**: Programmering
 
-__Anbefalte trinn__: 8.-10. trinn
+**Anbefalte trinn**: 8.-10. trinn
 
-__Tema__: Python, syntaks, tester, løkker, funksjoner
+**Tema**: Python, syntaks, tester, løkker, funksjoner
 
-__Tidsbruk__: Dobbelttime
+**Tidsbruk**: Dobbelttime
 
+## Kompetansemål {#kompetansemål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] **Programmering, valgfag**: gjøre rede for hvordan
+    datamaskiner og programmer fungerer, inkludert et utvalg utbredte
+    programmeringsspråk og deres bruksområder
 
-- [ ]  __Programmering, valgfag__: gjøre rede for hvordan datamaskiner og programmer fungerer, inkludert et utvalg utbredte programmeringsspråk og deres bruksområder
+-   \[ \] **Programmering, valgfag**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ]  __Programmering, valgfag__: bruke flere programmeringsspråk der minst ett er tekstbasert
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
+-   \[ \] Elevene kan syntaks i Python for tester, løkker og funksjoner.
 
-## Forslag til læringsmål {.challenge}
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ]  Elevene kan syntaks i Python for tester, løkker og funksjoner.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
+-   \[ \] **Forutsetninger**: Kjennskap til Python eller andre
+    programmeringsspråk.
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre stegene i oppgaven.
-
-- [ ]  Eleven viser høy måloppnåelse ved skriv egne programmer.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python eller andre programmeringsspråk.
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../repetisjon/repetisjon.html){target=_blank}
 
-Selv om ikke elevene har brukt Python før, kan dette fungere som en god oppgave å vise frem Python som språk. 
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../repetisjon/repetisjon.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ] _Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda._
+Selv om ikke elevene har brukt Python før, kan dette fungere som en god
+oppgave å vise frem Python som språk.
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] *Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.*
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

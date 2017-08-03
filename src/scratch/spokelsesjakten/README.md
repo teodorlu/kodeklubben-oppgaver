@@ -1,12 +1,7 @@
----
-title: Lærerveiledning - Spøkelsesjakten
-level: 1
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
 I denne oppgaven skal elevene lage et spill inspirert av tivolispillet
-__Whack-a-mole__, hvor man slår muldvarper ned igjen i hullene sine. I
+**Whack-a-mole**, hvor man slår muldvarper ned igjen i hullene sine. I
 vårt spill får man poeng for å trykke på spøkelser som dukker opp på
 skjermen. Målet er å få så mange poeng som mulig på 30 sekunder.
 
@@ -14,47 +9,77 @@ Dette er et enkelt spill som gir en god introduksjon til Scratch.
 
 ![](spokelsesjakten.png)
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Matematikk, musikk, programmering.
+**Fag**: Matematikk, musikk, programmering.
 
-__Anbefalte trinn__: 3.-10. trinn.
+**Anbefalte trinn**: 3.-10. trinn.
 
-__Tema__: Koordinatsystem, spill, musikk.
+**Tema**: Koordinatsystem, spill, musikk.
 
-__Tidsbruk__: Dobbelttime.
+**Tidsbruk**: Dobbelttime.
 
-## Kompetansemål {.challenge}
-- [ ]  __Matematikk, 4. trinn__: lese av, plassere og beskrive posisjoner i rutenett, på kart og i koordinatsystemer, både med og uten digitale verktøy
-- [ ]  __Matematikk, 7. trinn__: beskrive plassering og flytting i rutenett, på kart og i koordinatsystem, med og uten digitale hjelpemidler, og bruke koordinater til å beregne avstander parallelt med aksene i et koordinatsystem
-- [ ]  __Musikk, 7. trinn__: komponere og gjøre lydopptak ved hjelp av digitale verktøy
-- [ ]  __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+## Kompetansemål {#kompetansemål .challenge}
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] **Matematikk, 4. trinn**: lese av, plassere og beskrive
+    posisjoner i rutenett, på kart og i koordinatsystemer, både med og
+    uten digitale verktøy
+-   \[ \] **Matematikk, 7. trinn**: beskrive plassering og flytting i
+    rutenett, på kart og i koordinatsystem, med og uten digitale
+    hjelpemidler, og bruke koordinater til å beregne avstander parallelt
+    med aksene i et koordinatsystem
+-   \[ \] **Musikk, 7. trinn**: komponere og gjøre lydopptak ved hjelp
+    av digitale verktøy
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  Elevene kan plassere figurer på bestemte posisjoner i et koordinatsystem.
-- [ ]  Elevene kan få figurer til å bevege seg i et koordinatsystem.
-- [ ]  Elevene kan lage eller velge lydklipp som passer til situasjonen.
-- [ ]  Elevene kan bruke løkker for å få noe til å skje flere ganger.
-- [ ]  Elevene kan bruke variabler for å telle poeng (eller tid)
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-- [ ] Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
+-   \[ \] Elevene kan plassere figurer på bestemte posisjoner i et
+    koordinatsystem.
+-   \[ \] Elevene kan få figurer til å bevege seg i et koordinatsystem.
+-   \[ \] Elevene kan lage eller velge lydklipp som passer til
+    situasjonen.
+-   \[ \] Elevene kan bruke løkker for å få noe til å skje flere ganger.
+-   \[ \] Elevene kan bruke variabler for å telle poeng (eller tid)
 
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Ingen, fin introduksjon til Scratch.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ] __Utstyr__: Datamaskiner med Scratch installert. Eventuelt kan elevene bruke Scratch i nettleseren dersom de har en bruker (eller registrerer seg) på [scratch.mit.edu/](http://scratch.mit.edu/){target=_blank}. Elevene kan gjerne jobbe to og to sammen.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
+
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
+
+-   \[ \] **Forutsetninger**: Ingen, fin introduksjon til Scratch.
+
+-   \[ \] **Utstyr**: Datamaskiner med Scratch installert. Eventuelt kan
+    elevene bruke Scratch i nettleseren dersom de har en bruker (eller
+    registrerer seg) på
+    [scratch.mit.edu/](http://scratch.mit.edu/){target="_blank"}.
+    Elevene kan gjerne jobbe to og to sammen.
 
 ## Fremgangsmåte
-[Klikk her for å se oppgaveteksten.](../spokelsesjakten/spokelsesjakten.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+[Klikk her for å se
+oppgaveteksten.](../spokelsesjakten/spokelsesjakten.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ]  Elevene kan lage flere spøkelser som er synlige samtidig.
-- [ ]  Elevene kan lage spøkelser i ulike størrelser og med ulike hastigheter.
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser ...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene kan lage flere spøkelser som er synlige samtidig.
+-   \[ \] Elevene kan lage spøkelser i ulike størrelser og med ulike
+    hastigheter.
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser ...
+

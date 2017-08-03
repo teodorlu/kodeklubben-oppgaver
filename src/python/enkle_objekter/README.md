@@ -1,56 +1,67 @@
----
-title: Lærerveiledning - Enkle objekter
-level: 4
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
 I denne oppgaven får elevene en enkel innføring til klasser og objekter.
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering, Informasjonsteknologi
+**Fag**: Programmering, Informasjonsteknologi
 
-__Anbefalte trinn__: 8. trinn - VG3
+**Anbefalte trinn**: 8. trinn - VG3
 
-__Tema__: Objektorientering, klasser, objekter 
+**Tema**: Objektorientering, klasser, objekter
 
-__Tidsbruk__: Dobbelttime
+**Tidsbruk**: Dobbelttime
 
+## Kompetansemål {#kompetansemål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, valgfag**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ]  __Programmering, valgfag__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] **Informasjonsteknologi 2, VG3**: gjøre rede for hensikten med
+    objektorientert utvikling og begrepene klasse, objekt og arv
 
-- [ ]  __Informasjonsteknologi 2, VG3__: gjøre rede for hensikten med objektorientert utvikling og begrepene klasse, objekt og arv
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan forklare bruken av og hensikten med klasser og
+    objekter.
 
-- [ ]  Elevene kan forklare bruken av og hensikten med klasser og objekter.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til vurderingskriterier {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
+-   \[ \] **Forutsetninger**: Kjennskap til Python.
 
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python.
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../enkle_objekter/enkle_objekter.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../enkle_objekter/enkle_objekter.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ]   Elevene kan finne andre situasjoner hvor det egner seg godt å bruke klasser og objekter. For eksempel kan elevene bruke erfaringer fra spill og filmer til å sette opp klasser og objekter.
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+## Variasjoner {#variasjoner .challenge}
+
+-   \[ \] Elevene kan finne andre situasjoner hvor det egner seg godt å
+    bruke klasser og objekter. For eksempel kan elevene bruke erfaringer
+    fra spill og filmer til å sette opp klasser og objekter.
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

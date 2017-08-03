@@ -1,72 +1,78 @@
----
-title: Lærerveiledning - Stjerner og galakser
-level: 2
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
+I denne oppgaven skal vi se nærmere på hvordan funkjoner kan gjøre
+programmene vi skriver enklere og mer oversiktlige. Spesielt så skal vi
+se hvordan if-setninger kan brukes til å tegne stjerner og galakser.
 
-# Om oppgaven {.activity}
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-I denne oppgaven skal vi se nærmere på hvordan funkjoner kan gjøre programmene vi skriver enklere og mer oversiktlige. Spesielt så skal vi se hvordan if-setninger kan brukes til å tegne stjerner og galakser.
+**Fag**: Programmering
 
+**Anbefalte trinn**: 8.-10. trinn
 
-## Oppgaven passer til: {.check}
+**Tema**: Funksjoner, if-setninger, Skilpadder
 
- __Fag__: Programmering
+**Tidsbruk**: Dobbelttime
 
- __Anbefalte trinn__: 8.-10. trinn
+## Kompetansemål {#kompetansemål .challenge}
 
- __Tema__: Funksjoner, if-setninger, Skilpadder
+-   \[ \] **Programmering, 10. trinn**: omgjøre problemer til konkrete
+    delproblemer, vurdere hvilke delproblemer som lar seg løse digitalt,
+    og utforme løsninger for disse
 
- __Tidsbruk__: Dobbelttime
+-   \[ \] **Programmering, 10. trinn**: utvikle og feilsøke programmer
+    som løser definerte problemer, inkludert realfaglige
+    problemstillinger og kontrollering eller simulering av fysiske
+    objekter
 
+-   \[ \] **Kunst og håndtverk, 4. trinn**: eksperimentere med enkle
+    geometriske former i konstruksjon og som dekorative formelementer
 
-## Kompetansemål {.challenge}
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
- - [ ] __Programmering, 10. trinn__: omgjøre problemer til konkrete delproblemer, vurdere hvilke delproblemer som lar seg løse digitalt, og utforme løsninger for disse
+-   \[ \] Elevene kan bruke et tekstbasert programmeringsspråk.
 
- - [ ] __Programmering, 10. trinn__: utvikle og feilsøke programmer som løser definerte problemer, inkludert realfaglige problemstillinger og kontrollering eller simulering av fysiske objekter
+-   \[ \] Elevene forstår hvordan en kan tegne geometriske figurer
+    tilfeldig på skjermen.
 
- - [ ] __Kunst og håndtverk, 4. trinn__: eksperimentere med enkle geometriske former i konstruksjon og som dekorative formelementer
+-   \[ \] Elevene kan forklare hvordan en `if-setning` fungerer og er i
+    stand til å sette sammen flere slike
 
+-   \[ \] Elevene kan forklare hva en funksjon er og skrive enkle
+    funksjoner selv.
 
-## Forslag til læringsmål {.challenge}
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ] Elevene kan bruke et tekstbasert programmeringsspråk.
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-- [ ] Elevene forstår hvordan en kan tegne geometriske figurer tilfeldig på skjermen.
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-- [ ] Elevene kan forklare hvordan en `if-setning` fungerer og er i stand til å sette sammen flere slike
+-   \[ \] **Forutsetninger**: Kjennskap til skilpadder og if-setninger.
 
-- [ ] Elevene kan forklare hva en funksjon er og skrive enkle funksjoner selv.
-
-
-## Forslag til vurderingskriterier {.challenge}
-
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-
-- [ ] Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
-
-
-## Forutsetninger og utstyr {.challenge}
-
- - [ ]  __Forutsetninger__: Kjennskap til skilpadder og if-setninger.
-
- - [ ]  __Utstyr__: Datamaskin med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskin med Python installert.
 
 ## Fremgangsmåte
 
- Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../stjerner_og_galakser/stjerner_og_galakser.html){target=_blank}
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../stjerner_og_galakser/stjerner_og_galakser.html){target="_blank"}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
+## Variasjoner {#variasjoner .challenge}
 
-## Variasjoner {.challenge}
+-   \[ \] Vi har dessverre ikke noen variasjoner tilknyttet denne
+    oppgaven enda.
 
-- [ ]  Vi har dessverre ikke noen variasjoner tilknyttet denne oppgaven enda.
+## Eksterne ressurser {#eksterne-ressurser .challenge}
 
+-   \[ \] Foreløpig ingen eksterne ressurser
 
-## Eksterne ressurser {.challenge}
-
-- [ ] Foreløpig ingen eksterne ressurser

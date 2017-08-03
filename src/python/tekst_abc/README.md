@@ -1,58 +1,68 @@
----
-title: Lærerveiledning - Tekst ABC
-level: 3
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
-# Om oppgaven {.activity}
-I denne oppgaven skal elevene lære å gjøre enkle operasjoner på tekst, som å endre størrelsen på bokstavene og telle ord.
+I denne oppgaven skal elevene lære å gjøre enkle operasjoner på tekst,
+som å endre størrelsen på bokstavene og telle ord.
 
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-## Oppgaven passer til: {.check}
- __Fag__: Programmering
+**Fag**: Programmering
 
-__Anbefalte trinn__: 8.-10. trinn
+**Anbefalte trinn**: 8.-10. trinn
 
-__Tema__: Tekststrenger, input/output brukerinteraksjon
+**Tema**: Tekststrenger, input/output brukerinteraksjon
 
-__Tidsbruk__: Dobbelttime
+**Tidsbruk**: Dobbelttime
 
+## Kompetansemål {#kompetansemål .challenge}
 
-## Kompetansemål {.challenge}
+-   \[ \] **Programmering, valgfag**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
-- [ ]  __Programmering, valgfag__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] **Programmering, valgfag**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-- [ ]  __Programmering, valgfag__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
+-   \[ \] Elevene kan endre, telle og erstatte tekststrenger ved hjelp
+    av innebygde Python funksjoner.
 
-## Forslag til læringsmål {.challenge}
+-   \[ \] Elevene kan samhandle med brukeren gjennom tekst input og
+    output.
 
-- [ ]  Elevene kan endre, telle og erstatte tekststrenger ved hjelp av innebygde Python funksjoner.
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
-- [ ]  Elevene kan samhandle med brukeren gjennom tekst input og output.  
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
-## Forslag til vurderingskriterier {.challenge}
+-   \[ \] **Forutsetninger**: Kjennskap til Python.
 
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-
-- [ ]  Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
-
-
-## Forutsetninger og utstyr {.challenge}
-- [ ]  __Forutsetninger__: Kjennskap til Python.
-
-- [ ]  __Utstyr__:  Datamaskiner med Python installert. Elevene kan gjerne jobbe to og to sammen.
-
+-   \[ \] **Utstyr**: Datamaskiner med Python installert. Elevene kan
+    gjerne jobbe to og to sammen.
 
 ## Fremgangsmåte
-Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../tekst_abc/tekst_abc.html){target=_blank}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../tekst_abc/tekst_abc.html){target="_blank"}
 
-## Variasjoner {.challenge}
-- [ ]  Elevene kan lage sine egne spørsmål, manipulasjoner og svar og prøve de ut på hverandre to og to.
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
+## Variasjoner {#variasjoner .challenge}
 
-## Eksterne ressurser {.challenge}
-- [ ] Foreløpig ingen eksterne ressurser...
+-   \[ \] Elevene kan lage sine egne spørsmål, manipulasjoner og svar og
+    prøve de ut på hverandre to og to.
+
+## Eksterne ressurser {#eksterne-ressurser .challenge}
+
+-   \[ \] Foreløpig ingen eksterne ressurser...
+

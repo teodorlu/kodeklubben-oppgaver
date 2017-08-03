@@ -1,73 +1,78 @@
----
-title: Lærerveiledning - Fargespill
-level: 3
-language: nb
----
+# Om oppgaven {#om-oppgaven .activity}
 
+I denne oppgaven skal vi lage et fargespill. Konkret så lager vi et
+grafisk brukersnitt og gir brukeren ulike ord med farger. Målet er da å
+skrive inn fargen på ordet, og ikke selve ordet. Det som gjør det
+vanskelig er at ordene er navn på farger.
 
-# Om oppgaven {.activity}
+## Oppgaven passer til: {#oppgaven-passer-til .check}
 
-I denne oppgaven skal vi lage et fargespill. Konkret så lager vi et grafisk brukersnitt
-og gir brukeren ulike ord med farger. Målet er da å skrive inn fargen på ordet, og ikke selve ordet. Det som gjør det vanskelig er at ordene er navn på farger.
+**Fag**: Programmering
 
+**Anbefalte trinn**: 8.-10 trinn
 
-## Oppgaven passer til: {.check}
+**Tema**: Grafisk brukergrensesnitt, Spill, Tilfeldig
 
- __Fag__: Programmering
+**Tidsbruk**: Enkelttime
 
- __Anbefalte trinn__: 8.-10 trinn
+## Kompetansemål {#kompetansemål .challenge}
 
-__Tema__: Grafisk brukergrensesnitt, Spill, Tilfeldig
+-   \[ \] **Programmering, 10. trinn**: bruke flere programmeringsspråk
+    der minst ett er tekstbasert
 
- __Tidsbruk__: Enkelttime
+-   \[ \] **Programmering, 10. trinn**: utvikle og feilsøke programmer
+    som løser definerte problemer, inkludert realfaglige
+    problemstillinger og kontrollering eller simulering av fysiske
+    objekter
 
+-   \[ \] **Programmering, 10. trinn**: bruke grunnleggende prinsipper i
+    programmering, slik som løkker, tester, variabler, funksjoner og
+    enkel brukerinteraksjon
 
-## Kompetansemål {.challenge}
+## Forslag til læringsmål {#forslag-til-læringsmål .challenge}
 
- - [ ] __Programmering, 10. trinn__: bruke flere programmeringsspråk der minst ett er tekstbasert
+-   \[ \] Elevene kan lage et enkelt grafisk brukergrensesnitt
 
- - [ ] __Programmering, 10. trinn__: utvikle og feilsøke programmer som løser definerte problemer, inkludert realfaglige problemstillinger og kontrollering eller simulering av fysiske objekter
+-   \[ \] Elevene forstår hvordan en kan sette sammen flere funksjoner
+    til en helhet
 
- - [ ] __Programmering, 10. trinn__: bruke grunnleggende prinsipper i programmering, slik som løkker, tester, variabler, funksjoner og enkel brukerinteraksjon
+-   \[ \] Elevene klarer å tolke enkle feilmeldinger og fikse koden
+    basert på disse
 
+## Forslag til vurderingskriterier {#forslag-til-vurderingskriterier .challenge}
 
+Det er mange ulike måter en kan vurdere et programmeringsprosjekt, og
+her må en selv vurdere hva som er den beste måten ut ifra hvilket fag
+man jobber i, hvilken aldergruppe og hvilket nivå elevene er på, hva man
+ønsker å teste og hvor mye tid man har til rådighet til å jobbe med
+prosjektet. I vårt
+[lærerdokument](../../pages/hvordan_bruke_lærerveiledning.html) har vi
+blant annet beskrevet ulike måter dette kan gjøres på, tillegg til en
+del andre nyttige tips til hvordan man underviser i programmering.
 
-## Forslag til læringsmål {.challenge}
+## Forutsetninger og utstyr {#forutsetninger-og-utstyr .challenge}
 
- - [ ] Elevene kan lage et enkelt grafisk brukergrensesnitt
+-   \[ \] **Forutsetninger**: Kjennskap til if-setninger, og funksjoner.
 
- - [ ] Elevene forstår hvordan en kan sette sammen flere funksjoner til en helhet
-
- - [ ] Elevene klarer å tolke enkle feilmeldinger og fikse koden basert på disse
-
-
-
-## Forslag til vurderingskriterier {.challenge}
-
-- [ ] Eleven viser middels måloppnåelse ved å fullføre oppgaven.
-
-- [ ] Eleven viser høy måloppnåelse ved å videreutvikle egen kode basert på oppgaven, for eksempel ved å gjøre en eller flere av variasjonene nedenfor.
-
-
-## Forutsetninger og utstyr {.challenge}
-
- - [ ]  __Forutsetninger__: Kjennskap til if-setninger, og funksjoner.
-
- - [ ]  __Utstyr__: Datamaskin med Python installert.
-
+-   \[ \] **Utstyr**: Datamaskin med Python installert.
 
 ## Fremgangsmåte
 
- Her kommer tips, erfaring og utfordringer til de ulike stegene i den faktiske oppgaven. [Klikk her for å se oppgaveteksten.](../fargespill/fargespill.html){target=_blank}
+Her kommer tips, erfaring og utfordringer til de ulike stegene i den
+faktiske oppgaven. [Klikk her for å se
+oppgaveteksten.](../fargespill/fargespill.html){target="_blank"}
 
-_Vi har dessverre ikke noen tips, erfaringer eller utfordringer tilknyttet denne oppgaven enda._
+*Vi har dessverre ikke noen tips, erfaringer eller utfordringer
+tilknyttet denne oppgaven enda.*
 
+## Variasjoner {#variasjoner .challenge}
 
-## Variasjoner {.challenge}
+-   \[ \] En enkel variasjon kan være å kreve at navnene på fargene
+    skrives på et annet språk. Dette gjør at oppgaven passer fint til å
+    lære fargene på Fransk, Tyksk, Engelsk eller et annet fremmedspråk
+    på ungdomsskolen.
 
-- [ ]  En enkel variasjon kan være å kreve at navnene på fargene skrives på et annet språk. Dette gjør at oppgaven passer fint til å lære fargene på Fransk, Tyksk, Engelsk eller et annet fremmedspråk på ungdomsskolen.
+## Eksterne ressurser {#eksterne-ressurser .challenge}
 
+-   \[ \] Foreløpig ingen eksterne ressurser
 
-## Eksterne ressurser {.challenge}
-
-- [ ] Foreløpig ingen eksterne ressurser
